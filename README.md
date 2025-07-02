@@ -68,7 +68,6 @@ Welcome to my GitHub! I’m passionate about building intelligent systems that s
 ## 🌱 Currently Learning
 
 - Hugging Face Transformers
-- Retrieval-Augmented Generation (RAG)
 - Explainable AI (SHAP, LIME)
 - Advanced GenAI workflows with LangChain
 
@@ -76,7 +75,7 @@ Welcome to my GitHub! I’m passionate about building intelligent systems that s
 ## 📫 How to Reach Me
 
 - 🌐 [LinkedIn](https://linkedin.com/in/maniksingh10)
-- ✉️ Email: your.email@example.com
+- ✉️ Email: maniksingh10@gmail.com
 
 
 ---
